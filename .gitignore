@@ -2,3 +2,4 @@ config.h
 *.o
 dmenu
 stest
+.ccls-cache
